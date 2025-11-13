@@ -4,7 +4,7 @@ Movies Website
 
 ## Демо просмотр
 
-🔗 [Посмотреть онлайн](https://youtube-clone.vercel.app)
+🔗 [https://github.com/Angelika-A/film-cite-] (https://film-cite.vercel.app)
 
 Стек технологий
 
